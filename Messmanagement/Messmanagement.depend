@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1398578652 source:f:\my data\vap\messproject\messmanagement\menu.c
+	"Mess.h"
+
+1398578782 f:\my data\vap\messproject\messmanagement\mess.h
+	"conio.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"process.h"
+	"string.h"
+
+1398958526 source:f:\my data\vap\messproject\messmanagement\order.c
+	"header.h"
+
+1398578652 f:\my data\vap\messproject\messmanagement\header.h
+	"conio.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"process.h"
+	"string.h"
+
+1398578652 source:f:\my data\vap\messproject\messmanagement\pass.c
+	"Mess.h"
+
+1398962698 source:f:\my data\vap\messproject\messmanagement\student.c
+	"Mess.h"
+
+1398578714 source:f:\my data\vap\messproject\messmanagement\main.c
+	"Mess.h"
+
